@@ -5,7 +5,8 @@ práticas. Aqui você encontrará meus projetos pessoais, desde aplicações des
 a sistemas web.
 
 Busco vagas de desenvolvimento de software; para detalhes sobre minha experiência,
-formação e mais, **[clique aqui para acessar meu currículo](https://raw.githubusercontent.com/purewave0/purewave0/main/pw0-curriculo-ptbr.pdf)**.
+formação e mais, **[clique aqui para acessar meu currículo](https://purewave0.github.io/resume/pt-br.pdf)**.
+
 
 Falo português (nativo), inglês (fluente) e atualmente estou aprendendo japonês
 (básico, JLPT N4).
@@ -18,7 +19,7 @@ solutions. Here you can find my personal projects, from desktop applications
 to web systems.
 
 I am seeking Software Development positions; for details on my experience, education
-and more, **[click here to view my CV/résumé](https://raw.githubusercontent.com/purewave0/purewave0/main/pw0-resume-en.pdf)**.
+and more, **[click here to view my CV/résumé](https://purewave0.github.io/resume/en.pdf)**.
 
 I speak Portuguese (native), English (fluent), and I am currently self-studying
 Japanese (basic, JLPT N4).
