@@ -4,9 +4,8 @@ Sou o Willian (pw0). Priorizo comunicação eficaz, aprendizado rápido e soluç
 práticas. Aqui você encontrará meus projetos pessoais, desde aplicações desktop
 a sistemas web.
 
-Busco vagas de desenvolvimento de software; para detalhes sobre minha experiência,
-formação e mais, **[clique aqui para acessar meu currículo](https://purewave0.github.io/resume/pt-br.pdf)**.
-
+Para detalhes sobre minha experiência, formação e mais,
+**[clique aqui para acessar meu currículo](https://purewave0.github.io/resume/pt-br.pdf)**.
 
 Falo português (nativo), inglês (fluente) e atualmente estou aprendendo japonês
 (básico, JLPT N4).
@@ -18,8 +17,8 @@ I'm Willian (pw0). I prioritise effective communication, fast learning, and prac
 solutions. Here you can find my personal projects, from desktop applications
 to web systems.
 
-I am seeking Software Development positions; for details on my experience, education
-and more, **[click here to view my CV/résumé](https://purewave0.github.io/resume/en.pdf)**.
+For details on my experience, education and more,
+**[click here to view my CV/résumé](https://purewave0.github.io/resume/en.pdf)**.
 
 I speak Portuguese (native), English (fluent), and I am currently self-studying
 Japanese (basic, JLPT N4).
