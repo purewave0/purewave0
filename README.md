@@ -5,7 +5,7 @@ práticas. Aqui você encontrará meus projetos pessoais, desde aplicações des
 a sistemas web.
 
 Para detalhes sobre minha experiência, formação e mais,
-**[clique aqui para acessar meu currículo](https://purewave0.github.io/resume/pt-br.pdf)**.
+**[clique aqui para acessar meu currículo](https://purewave0.github.io/resume/Curriculo_Willian_Brandao.pdf)**.
 
 Falo português (nativo), inglês (fluente) e atualmente estou aprendendo japonês
 (básico, JLPT N4).
@@ -18,7 +18,7 @@ solutions. Here you can find my personal projects, from desktop applications
 to web systems.
 
 For details on my experience, education and more,
-**[click here to view my CV/résumé](https://purewave0.github.io/resume/en.pdf)**.
+**[click here to view my CV/résumé](https://purewave0.github.io/resume/CV_Willian_Brandao.pdf)**.
 
 I speak Portuguese (native), English (fluent), and I am currently self-studying
 Japanese (basic, JLPT N4).
